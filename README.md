@@ -27,7 +27,7 @@ This project is part of the **FP20 Analytics ZoomCharts Challenge 24**, where I 
 For more details - _[Click Here](https://github.com/shellynagar27/Transportation-and-logistics-Challenge/blob/main/Logistics%20Challenge%20EDA%20%26%20Data%20Cleaning.ipynb)_
 
 ## 📊 Live Dashboard & Report  
-🚀 **[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWQzMThjZTAtOGQ5NS00YmI3LWI5MTgtYmNhM2I3Zjk0ZDM1IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)**  
+🚀 **[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzA0YmExZjktNmE0ZC00ZTY4LThhMGItNDgzYzllMjEyODA4IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)**  
 
 📂 **[Final Submission PDF](https://github.com/shellynagar27/Transportation-and-logistics-Challenge/blob/main/Logistics%20challenge%20dashboard.pdf)**
 
